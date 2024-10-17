@@ -1,0 +1,32 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffccff;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.gift-box {
+    font-size: 100px;
+    cursor: pointer;
+    margin: 20px auto;
+}
+
+#message {
+    display: none;
+    background-color: #fff3e0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #ff0066;
+}
+
+p {
+    font-size: 18px;
+}
